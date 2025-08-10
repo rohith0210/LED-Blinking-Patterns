@@ -1,2 +1,7 @@
-# blinkingLEDs
-This project demonstrates a simple LED blinking program using the 8051 microcontroller and Embedded C. It is one of the first and most fundamental projects in embedded systems, serving as a foundation to understand microcontroller programming, timing delays, and GPIO control.
+# LED Blinking Patterns
+This project demonstrates different LED control patterns using the 8051 microcontroller and Embedded C.
+It includes:
+Single LED blink
+Sequential LED blinking (one by one)
+LED scrolling effect (left-to-right / right-to-left)
+Implemented using Keil uVision for coding and Proteus for simulation, these programs help understand GPIO control, delay generation, and basic pattern logic in embedded systems.
