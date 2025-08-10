@@ -1,0 +1,3 @@
+".\Objects\main.obj" 
+TO ".\Objects\LED_SCROLLING" 
+PRINT(".\Listings\LED_SCROLLING.m51") RAMSIZE(256) 
